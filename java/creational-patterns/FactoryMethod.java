@@ -48,7 +48,7 @@ class NotificationFactory {
     }
 }
 
-// Clase principal para probar el patrón de diseño Método de Fábrica
+// Clase principal para probar el patrón de diseño Factory Method
 public class Main {
     public static void main(String[] args) {
         // Crear una notificación por correo electrónico
